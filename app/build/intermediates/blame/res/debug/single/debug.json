@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_simplerowcheck.xml.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\layout\\simplerowcheck.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_countrylist.xml.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\layout\\countrylist.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_version_number.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\raw\\version_number"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_morgagerequesttwo.xml.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\layout\\morgagerequesttwo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_morgagerequestone.xml.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\layout\\morgagerequestone.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_simplerow.xml.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\layout\\simplerow.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_makepayment.xml.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\layout\\makepayment.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_paymenthome.xml.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\layout\\paymenthome.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_detailrow.xml.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\layout\\detailrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_expernsereport.xml.flat",
+        "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\layout\\expernsereport.xml"
+    }
+]

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "118,56",
+                        "endColumns": "44,61",
+                        "endOffsets": "158,113"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,61",
+                        "endOffsets": "95,157"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jonathan.aharon\\Downloads\\EspressoTest-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,116",
+                        "endLines": "3,8",
+                        "endColumns": "58,12",
+                        "endOffsets": "110,333"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "162,220",
+                        "endLines": "4,8",
+                        "endColumns": "57,12",
+                        "endOffsets": "215,437"
+                    }
+                }
+            ]
+        }
+    ]
+}
